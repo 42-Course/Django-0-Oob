@@ -6,3 +6,9 @@ classes, static/class methods, and a small HTML element library built with
 composition.
 
 Exercises `ex00` → `ex06`. Run with `docker compose up --build`.
+
+## Map
+
+![module map](docs/map.svg)
+
+*Generated with `lsphere`.*
